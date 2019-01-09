@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\config",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\router",
+    "\\static"
+  ],
+  "SelectedNode": "\\src\\assets\\logo.png",
+  "PreviewInSolutionExplorer": false
+}
